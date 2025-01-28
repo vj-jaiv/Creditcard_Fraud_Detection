@@ -4,8 +4,8 @@
 The aim of this project is to predict fraudulent credit card transactions using machine learning models. This is crucial from both the bank's and customers' perspectives, as banks cannot afford to lose their customers' money to fraudsters. Every fraud incident represents a loss to the bank, as they are responsible for fraudulent transactions.
 
 ## Table of Contents
-- Dataset
-- [Dataset Attributes] Dataset Attributes
+- [Dataset](#Dataset)
+- [Dataset Attributes](#Dataset Attributes)
 - [Steps Involved] Steps Involved
 - [Reading and Understanding the Data] Reading and Understanding the Data
 - [Data Exploration and Visualization] Data Exploration and Visualization
