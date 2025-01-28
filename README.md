@@ -5,22 +5,22 @@ The aim of this project is to predict fraudulent credit card transactions using 
 
 ## Table of Contents
 - [Dataset](#Dataset)
-- [Dataset Attributes](#Dataset Attributes)
-- [Steps Involved] Steps Involved
-- [Reading and Understanding the Data] Reading and Understanding the Data
-- [Data Exploration and Visualization] Data Exploration and Visualization
-- [Data Preprocessing] Data Preprocessing
-- [Handling Imbalanced Data] Handling Imbalanced Data
-- [Feature Scaling] Feature Scaling
-- [Skewness Mitigation] Skewness Mitigation
-- [Model Building] Model Building
-- [Random Forest Model] Random Forest Model
-- [XGBoost Model] XGBoost Model
-- [Neural Network Model] Neural Network Model
-- [Evaluation Metrics] Evaluation Metrics
-- [Results and Visualizations] Results and Visualizations
-- [Conclusion] Conclusion
-- [Future Work] Future Work
+- [Dataset Attributes](#Dataset-Attributes)
+- [Steps Involved](#Steps-Involved)
+- [Reading and Understanding the Data](#Reading-and-Understanding-the-Data)
+- [Data Exploration and Visualization](#Data-Exploration-and-Visualization)
+- [Data Preprocessing](#Data-Preprocessing)
+- [Handling Imbalanced Data](#Handling-Imbalanced-Data)
+- [Feature Scaling](#Feature_Scaling)
+- [Skewness Mitigation](#Skewness-Mitigation)
+- [Model Building](#Model-Building)
+- [Random Forest Model](#Random-Forest-Model)
+- [XGBoost Model](#XGBoost-Model)
+- [Neural Network Model](#Neural-NetworkModel)
+- [Evaluation Metrics](#Evaluation-Metrics)
+- [Results and Visualizations](#Results-and-Visualizations)
+- [Conclusion](#Conclusion)
+- [Future Work](#Future-Work)
 
 
 ## Dataset
