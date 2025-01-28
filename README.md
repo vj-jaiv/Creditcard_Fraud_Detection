@@ -4,23 +4,23 @@
 The aim of this project is to predict fraudulent credit card transactions using machine learning models. This is crucial from both the bank's and customers' perspectives, as banks cannot afford to lose their customers' money to fraudsters. Every fraud incident represents a loss to the bank, as they are responsible for fraudulent transactions.
 
 ## Table of Contents
-Dataset
-1.1 Dataset Attributes
-Steps Involved
-2.1 Reading and Understanding the Data
-2.2 Data Exploration and Visualization
-2.3 Data Preprocessing
-2.4 Handling Imbalanced Data
-2.5 Feature Scaling
-2.6 Skewness Mitigation
-Model Building
-3.1 Random Forest Model
-3.2 XGBoost Model
-3.3 Neural Network Model
-Evaluation Metrics
-Results and Visualizations
-Conclusion
-Future Work
+- [Dataset]Dataset
+- [Dataset Attributes] Dataset Attributes
+- [Steps Involved] Steps Involved
+- [Reading and Understanding the Data] Reading and Understanding the Data
+- [Data Exploration and Visualization] Data Exploration and Visualization
+- [Data Preprocessing] Data Preprocessing
+- [Handling Imbalanced Data] Handling Imbalanced Data
+- [Feature Scaling] Feature Scaling
+- [Skewness Mitigation] Skewness Mitigation
+- [Model Building] Model Building
+- [Random Forest Model] Random Forest Model
+- [XGBoost Model] XGBoost Model
+- [Neural Network Model] Neural Network Model
+- [Evaluation Metrics] Evaluation Metrics
+- [Results and Visualizations] Results and Visualizations
+- [Conclusion] Conclusion
+- [Future Work] Future Work
 
 
 ## Dataset
